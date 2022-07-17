@@ -1,6 +1,6 @@
 # J.P Morgan Software Engineering Virtual Experience
 
-![Application UI](./jpmorganUI.png)
+
 
 This project is part of the J.P. Morgan Chase & Co virtual experience program, designed to givet the opportunity to students to explore life as a software engineer at 
 JPMorgan Chase and obtain valuable technology skills.
@@ -15,4 +15,6 @@ Here's a list of the task I was charged for :
 - **Display data visually for traders** : Use Perspective to create the chart for the trader’s dashboard
 
 `Technologies used` : **Python, Git, React, Typescript**
+
+
 `Skills` : **Basic Programming, Web Applications, Financial Analysis and Technical Communication**
