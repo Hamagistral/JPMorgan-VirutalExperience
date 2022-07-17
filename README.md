@@ -1,6 +1,6 @@
 # J.P Morgan Software Engineering Virtual Experience
 
-![Application UI](jpmorganUI.png)
+![Application UI](./jpmorganUI.png)
 
 This project is part of the J.P. Morgan Chase & Co virtual experience program, designed to givet the opportunity to students to explore life as a software engineer at 
 JPMorgan Chase and obtain valuable technology skills.
