@@ -14,7 +14,7 @@ Here's a list of the task I was charged for :
 - **Use JPMorgan Chase frameworks and tools** : Implement the Perspective open source code in preparation for data visualization
 - **Display data visually for traders** : Use Perspective to create the chart for the trader’s dashboard
 
-`Technologies used` : **Python, Git, React, Typescript**
+`Technologies` : **Python, Git, React, Typescript**
 
 
 `Skills` : **Basic Programming, Web Applications, Financial Analysis and Technical Communication**
